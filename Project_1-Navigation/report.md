@@ -20,3 +20,7 @@ the problem in reasonable time.
 ### Rewards Plot
 
 ![Rewards Plot](https://github.com/MaxFloyd/RL-Projects/blob/master/Project_1-Navigation/reward_plot.png)
+
+### Ideas for Future Work
+
+Future directions include implementing Priority Replay and Dueling DQN. 
