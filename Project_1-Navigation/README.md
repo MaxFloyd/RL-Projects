@@ -6,7 +6,7 @@ Agent navigates in a square world where yellow and blue bananas spawn occasional
 A reward of +1 is provided for collecting a yellow banana, and a reward of -1 is provided for collecting a blue banana. 
 Agent's goal is to collect as many yellow bananas as possible while avoiding blue bananas.
 
-![Environment](https://github.com/MaxFloyd/RL-Project-1---Navigation/blob/master/banana.gif)
+![Environment](https://github.com/MaxFloyd/RL-Projects/blob/master/Project_1-Navigation/banana.gif)
 
 The state space has 37 dimensions and contains the agent's velocity, along with ray-based perception of objects around the agent's forward direction. Given this information, the agent has to learn how to best select actions. Four discrete actions are available, corresponding to:
 
