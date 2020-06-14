@@ -16,3 +16,7 @@ considered rates it gives the fastest convergence to target.
 Both Actor and Critic are implemented as 3-layer (Linear) Neural Nets with 128, 256, 128 units in each layer. 
 Powers of 2 are common choice for number of units. Depth of 3 is chosen heuristically yet such arrangement manages to solve
 the problem in reasonable time.
+
+### Rewards Plot
+
+![Rewards Plot](https://github.com/MaxFloyd/RL-Projects/blob/master/Project_1-Navigation/reward_plot.png)
