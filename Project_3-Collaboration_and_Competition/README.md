@@ -18,11 +18,11 @@ The environment is considered solved, when the average (over 100 episodes) of th
 
 Clone [DLRND repository](https://github.com/udacity/deep-reinforcement-learning) and download dependencies as outlined [here](https://github.com/udacity/deep-reinforcement-learning#dependencies)  
 
-Download Unity Environment ([MacOS](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P3/Tennis/Tennis.app.zip), [Win](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P3/Tennis/Tennis_Windows_x86_64.zip)). Place unzipped file into p2_continuous-control directory in cloned DLRND repository.
+Download Unity Environment ([MacOS](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P3/Tennis/Tennis.app.zip), [Win](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P3/Tennis/Tennis_Windows_x86_64.zip)). Place unzipped file into p3_collab-compet directory in cloned DLRND repository.
 
 ### Replicating (Instructions) 
 
-Copy files from [this repository](https://github.com/MaxFloyd/RL-Projects/tree/master/Project_3-Collaboration_and_Competition)  into p2_continuous-control directory in cloned DLRND repository. 
+Copy files from [this repository](https://github.com/MaxFloyd/RL-Projects/tree/master/Project_3-Collaboration_and_Competition)  into p3_collab-compet directory in cloned DLRND repository. 
 
 For trained agent run all cells in run.ipynb to see performance of untrained agent first and then performance of the trained version.
 
