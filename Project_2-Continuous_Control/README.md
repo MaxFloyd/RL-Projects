@@ -15,6 +15,8 @@ The environment is considered solved, when the average of 20 actors reward is at
 
 Clone [DLRND repository](https://github.com/udacity/deep-reinforcement-learning) and download dependencies as outlined [here](https://github.com/udacity/deep-reinforcement-learning#dependencies)  
 
+Download Unity Environment ([MacOS](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P2/Reacher/Reacher.app.zip), [Win](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P2/Reacher/Reacher_Windows_x86_64.zip)). Place unzipped file into p2_continuous-control directory in cloned DLRND repository.
+
 ### Replicating (Instructions) 
 
 Copy files from [this repository](https://github.com/MaxFloyd/RL-Projects/tree/master/Project_2-Continuous_Control) into p2_continuous-control directory in cloned DLRND repository. 
