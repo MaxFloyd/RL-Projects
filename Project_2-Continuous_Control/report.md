@@ -10,6 +10,15 @@ Exploration is determined by adding Orstein-Uhlenbeck noise to continuous action
 Number of updates per 20 learning steps is set to 10 in order to fill replay buffer with new samples before sampling repeatedly.
 Remaining parameters are set following [DDPG paper](https://arxiv.org/abs/1509.02971).
 
+## Net Architecture
+
+3-layer: 256, 128, 128 units following DDPG paper architecture.
+
+
 ## Ideas for Future Work
 
 Apply Proximal Policy optmization, A2C algorithm with importance sampling, Priority Replay.
+
+## Rewards Plot
+
+![Rewards Plot](https://github.com/MaxFloyd/RL-Projects/blob/master/Project_2-Continuous_Control/reward_plot.png)
