@@ -12,7 +12,7 @@ Remaining parameters are set following [DDPG paper](https://arxiv.org/abs/1509.0
 
 ## Net Architecture
 
-
+3-layer: 256, 128, 128 units following DDPG paper architecture.
 
 
 ## Ideas for Future Work
