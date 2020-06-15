@@ -16,3 +16,7 @@ Parameters are set following [DDPG paper](https://arxiv.org/abs/1509.02971).
 ## Ideas for Future Work
 
 Apply Proximal Policy optmization, A2C algorithm with importance sampling, Priority Replay.
+
+## Rewards Plo
+
+![Reward Plot](https://github.com/MaxFloyd/RL-Projects/blob/master/Project_3-Collaboration_and_Competition/reward_plot.png)
