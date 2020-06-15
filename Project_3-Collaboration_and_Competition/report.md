@@ -20,3 +20,5 @@ Apply Proximal Policy optmization, A2C algorithm with importance sampling, Prior
 ## Rewards Plo
 
 ![Reward Plot](https://github.com/MaxFloyd/RL-Projects/blob/master/Project_3-Collaboration_and_Competition/reward_plot.png)
+
+The environment was solved in 2212 episodes.
