@@ -1,4 +1,4 @@
-from module_model import Actor, Critic
+from model_module import Actor, Critic
 
 from collections import deque, namedtuple
 
